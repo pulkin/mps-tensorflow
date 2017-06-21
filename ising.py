@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 import tensorflow as tf
 import math; log2 = lambda x: math.log(x)/math.log(2.0)
 
